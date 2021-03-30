@@ -16,6 +16,9 @@ Agora estou treinando minhas habilidades em Desenvolvimento Front-end e estudand
 ## Linkedin
 https://www.linkedin.com/in/klayton-j-061658130/
 
+## 🇺🇸 My Resume at Notion | 🇧🇷 Meu Currículo no Notion
+https://www.notion.so/Klayton-J-nior-7ef0e0b6c6db4c238c80c7ee2c891f2f
+
 <!--
 **KlaytonJr/KlaytonJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
