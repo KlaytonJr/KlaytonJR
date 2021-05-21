@@ -12,16 +12,15 @@ Estou cursando Ciência da Computação na Universidade Estadual da Paraíba (UE
 
 As tecnologias que costumo usar são HTML, CSS, JavaScript. mas também tenho conhecimentos básicos em C, Python e Java.
 
+Agora estou treinando minhas habilidades em Desenvolvimento Front-end e estudando ReactJS e buscando um estágio para me aprimorar.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaytonJr&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaytonJr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-Agora estou treinando minhas habilidades em Desenvolvimento Front-end e estudando ReactJS e buscando um estágio para me aprimorar.
 ## Linkedin
+<a href="https://www.linkedin.com/in/klayton-j-061658130/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" style="width: 50px" ></a>
 https://www.linkedin.com/in/klayton-j-061658130/
 
 ## 🇺🇸 My Resume at Notion | 🇧🇷 Meu Currículo no Notion
