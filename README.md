@@ -14,6 +14,9 @@ As tecnologias que costumo usar são HTML, CSS, JavaScript. mas também tenho co
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaytonJr&show_icons=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaytonJr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Agora estou treinando minhas habilidades em Desenvolvimento Front-end e estudando ReactJS e buscando um estágio para me aprimorar.
 ## Linkedin
