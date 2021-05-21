@@ -14,9 +14,10 @@ I am studying Computer Science at the State University of Paraíba (UEPB) and le
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="50px"></a>
 <a><img src="https://br.vuejs.org//images/logo.png" width="50px"></a>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaytonJr&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaytonJr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <div>
   <h2>Links</h2>
   <h3>• Linkedin</h3>
