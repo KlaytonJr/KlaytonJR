@@ -26,7 +26,7 @@ I am studying Computer Science at the State University of Paraíba (UEPB) and le
   <p>PS.: 🇺🇸 My Resume at Notion | 🇧🇷 Meu Currículo no Notion</p>
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=KlaytonJR&color=green&style=flat-square)
 
 
 <!--
