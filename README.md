@@ -20,7 +20,7 @@ I am studying Computer Science at the State University of Paraíba (UEPB) and le
 -->
 <div>
   <h2>Links</h2>
-  <a href="https://www.linkedin.com/in/klayton-j-061658130/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40px"></a>
+  <a href="https://www.linkedin.com/in/klayton-j-061658130/"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="40px"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.notion.so/Klayton-J-nior-7ef0e0b6c6db4c238c80c7ee2c891f2f"><img src="https://produtive.me/wp-content/uploads/2019/08/notion-logo-no-background.png" width="40px"></a>
   <p>PS.: 🇺🇸 My Resume at Notion | 🇧🇷 Meu Currículo no Notion</p>
