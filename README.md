@@ -1,16 +1,16 @@
 <div align="center">
-  <h1>🙋‍♂️ Hi, I'm Klayton</h1>
+  <h1>👨🏼‍💻 Hi, I'm Klayton</h1>
 </div>
-
-:brazil:
-Sou Software Engineer Frontend com ênfase em Vue.js e moro no Brasil. Tenho mais de 2 anos de experiência desenvolvendo aplicações web com Vue.js, JavaScript, TypeScript, HTML, CSS e outras tecnologias modernas. E tenho conhecimento em React e React Native.
-
-Procuro uma posição, onde possa ser Desenvolvedor Frontend e crescer para cargos de liderança.
 
 :us:
 I'm Software Engineer Frontend with emphasis in Vue.js and based in Brazil. I have more than 2 years of experience developing web applications with Vue.js, JavaScript, TypeScript, HTML, CSS and anothers modern technologies. And I have knowledge in React and React Native.
 
 I'm looking for an international position, where I can be Frontend Developer and grow to roles of lead.
+
+:brazil:
+Sou Software Engineer Frontend com ênfase em Vue.js e moro no Brasil. Tenho mais de 2 anos de experiência desenvolvendo aplicações web com Vue.js, JavaScript, TypeScript, HTML, CSS e outras tecnologias modernas. E tenho conhecimento em React e React Native.
+
+Procuro uma posição, onde possa ser Desenvolvedor Frontend e crescer para cargos de liderança.
 
 <!-- ## Tecnologies
 <div style="display: flex;" align="center" justify="center">
@@ -51,7 +51,7 @@ I'm looking for an international position, where I can be Frontend Developer and
   </div>
 
   <div>
-    👨🏼‍💻Methodology and Others:
+    👨🏼‍💻 Methodology and Others:
      Git
     - GitHub
     - SCRUM
@@ -71,9 +71,14 @@ I'm looking for an international position, where I can be Frontend Developer and
 -->
 <div>
   <h2>Links</h2>
-  <a href="https://www.linkedin.com/in/klayton-j-061658130/"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="40px"></a>
+  <a href="https://www.linkedin.com/in/klayton-jr/"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="40px"></a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@klaytonjrr"><img src="https://rotony.com.br/wp-content/uploads/2021/09/free-youtube-logo-icon-2431-thumb.png" width="50px"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/klaytonjrr.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" width="40px"></a>
 </div>
+
+&nbsp;&nbsp;&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=KlaytonJR&color=green&style=flat-square)
 
