@@ -5,12 +5,8 @@
 :us:
 I'm Software Engineer Frontend with emphasis in Vue.js and based in Brazil. I have more than 2 years of experience developing web applications with Vue.js, JavaScript, TypeScript, HTML, CSS and anothers modern technologies. And I have knowledge in React and React Native.
 
-I'm looking for an international position, where I can be Frontend Developer and grow to roles of lead.
-
 :brazil:
 Sou Software Engineer Frontend com ênfase em Vue.js e moro no Brasil. Tenho mais de 2 anos de experiência desenvolvendo aplicações web com Vue.js, JavaScript, TypeScript, HTML, CSS e outras tecnologias modernas. E tenho conhecimento em React e React Native.
-
-Procuro uma posição, onde possa ser Desenvolvedor Frontend e crescer para cargos de liderança.
 
 <!-- ## Tecnologies
 <div style="display: flex;" align="center" justify="center">
